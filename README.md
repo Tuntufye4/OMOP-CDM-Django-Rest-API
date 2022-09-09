@@ -8,10 +8,10 @@ Observation Medical Outcomes Partnership (OMOP) Common data model (CDM) is is an
 
 The OMOP CDM output tables are categorized in the following:
 
--Clinical data tables
--Health System data tables
--Health Economics data tables
--Standardized derived elements
--Metadata tables
+- Clinical data tables
+- Health System data tables
+- Health Economics data tables
+- Standardized derived elements
+- Metadata tables
 
 This repository contains a Rest API for OMOP CDM version 5.4 standard clinical and health systems data tables only. More information about OMOP CDM is found here: [info](http://ohdsi.github.io/CommonDataModel/cdm54.html)
