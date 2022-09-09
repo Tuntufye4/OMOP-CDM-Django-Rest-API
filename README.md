@@ -51,3 +51,10 @@ Django rest multiple models:
 pip install django-rest-multiple-models
 
 ```
+
+Clone repository:
+
+```
+git clone https://github.com/Tuntufye4/OMOP-CDM-Django-Rest-API.git
+
+```
