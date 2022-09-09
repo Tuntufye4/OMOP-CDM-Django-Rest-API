@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Observation Medical Outcomes Partnership (OMOP) Common data model (CDM) is is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence. 
+Observation Medical Outcomes Partnership (OMOP) Common data model (CDM) is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence. 
 
 ### Category of OMOP CDM Tables
 
