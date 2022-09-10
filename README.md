@@ -6,7 +6,7 @@ Observation Medical Outcomes Partnership (OMOP) Common data model (CDM) is an op
 
 ### Category of OMOP CDM Tables
 
-The OMOP CDM output tables are categorized in the following:
+The OMOP CDM output tables are in the following categories:
 
 - Clinical data tables
 - Health System data tables
