@@ -14,7 +14,7 @@ The OMOP CDM output tables are in the following categories:
 - Standardized derived elements
 - Metadata tables
 
-This repository contains a Rest API for OMOP CDM version 5.4 standard clinical and health systems data tables only. More information on OMOP CDM is found here: [info](http://ohdsi.github.io/CommonDataModel/cdm54.html)
+This repository contains a Rest API for OMOP CDM version 5.4 standard clinical and health systems data tables only. More information on OMOP CDM is found here: [info](https://www.ohdsi.org/data-standardization/the-common-data-model/)
 
 ### Rest API
 
