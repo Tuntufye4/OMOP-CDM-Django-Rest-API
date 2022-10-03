@@ -27,7 +27,7 @@ The Rest API is developed using django restframework. The Observational Health D
 - Python 3.8.0
 - Django 4.0.5
 - Django Restframework 3.13.1
-- Pyscopgd2
+- Psycopg2
 
 #### Installation
 
